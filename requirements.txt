@@ -3,3 +3,8 @@ pandas
 numpy
 ipywidgets==8.1.1
 pandarallel
+gensim==4.3.2
+pyvi
+nltk
+transformers
+sentence_transformers
